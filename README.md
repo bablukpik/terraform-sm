@@ -127,5 +127,6 @@ To deploy this infrastructure, follow these steps:
 ## Additional Resources
 
 - [Terraform Documentation](https://www.terraform.io/docs)
+- [Terraform Best Practices](https://www.terraform-best-practices.com)
 - [HashiCorp Learn](https://learn.hashicorp.com/terraform)
 - [Terraform GitHub Repository](https://github.com/hashicorp/terraform)
