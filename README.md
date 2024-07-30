@@ -129,4 +129,6 @@ To deploy this infrastructure, follow these steps:
 - [Terraform Documentation](https://www.terraform.io/docs)
 - [Terraform Best Practices](https://www.terraform-best-practices.com)
 - [HashiCorp Learn](https://learn.hashicorp.com/terraform)
+- [Kubernetes Provider](https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs)
 - [Terraform GitHub Repository](https://github.com/hashicorp/terraform)
+- [AWS EKS Terraform Module](https://github.com/terraform-aws-modules/terraform-aws-eks)
